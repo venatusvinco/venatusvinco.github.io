@@ -2,13 +2,13 @@
 main:
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Blog"
+    url: /blog/
   - title: "Nine Worlds"
     url: /nine-worlds/
   - title: "Published"
     url: /published/
   - title: "SWAG"
-    url: "https://www.drivethrurpg.com/browse.php?author=Venatus%20Vinco"
+    url: https://drivethrurpg.com/browse.php?author=Venatus%20Vinco
   - title: "About"
     url: /about/
